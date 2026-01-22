@@ -33,6 +33,7 @@ Helping organizations automate, secure, and scale their cloud infrastructure.
 ## 💬 Connect with Me
 - GitHub: [@anishkumarait](https://github.com/anishkumarait)  
 - LinkedIn: [Anish Kumar](https://www.linkedin.com/in/anishkumarait/)
+- Medium: [@anishkumarait](https://medium.com/@anishkumarait)
 - Email: [anishkumarait@gmail.com](mailto:anishkumarait@gmail.com)
 
 ---
