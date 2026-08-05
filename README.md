@@ -6,7 +6,7 @@ Helping organizations automate, secure, and scale their cloud infrastructure.
 ---
 
 ## 🚀 About Me
-- 7+ years of experience in **AWS Cloud, DevOps, and Infrastructure Automation**  
+- 8+ years of experience in **AWS Cloud, DevOps, and Infrastructure Automation**  
 - Published author: *"Mastering Terraform for the Associate Certification Exam", "AWS CDK for Infrastructure Automation"*  
 - Open-source contributor in **Terraform, AWS CDK, GitHub Actions**  
 - Passionate about **Cloud Security, DevOps, Platform Enginerring and SRE practices**  
@@ -26,14 +26,14 @@ Helping organizations automate, secure, and scale their cloud infrastructure.
 - **[Mastering Terraform for the Associate Certification Exam](https://www.amazon.com/gp/product/B0DJC8V6FG)**
 - **[AWS CDK for Infrastructure Automation](https://www.amazon.com/gp/product/B0DVBYXSH1)**
 - **[Terraform for Cloud Security](https://shorturl.at/udzt1)**
-- Substack: [@anishkumarait](https://substack.com/@anishkumarait)
 
 ---
 
 ## 💬 Connect with Me
-- GitHub: [@anishkumarait](https://github.com/anishkumarait)  
+- GitHub: [anishkumarait](https://github.com/anishkumarait)  
 - LinkedIn: [Anish Kumar](https://www.linkedin.com/in/anishkumarait/)
 - Medium: [@anishkumarait](https://medium.com/@anishkumarait)
+- Substack: [@anishkumarait](https://substack.com/@anishkumarait)
 - Email: [anishkumarait@gmail.com](mailto:anishkumarait@gmail.com)
 
 ---
